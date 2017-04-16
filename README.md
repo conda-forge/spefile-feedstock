@@ -12,6 +12,18 @@ Summary: Reader for SPE files part of pyspec a set of python routines for data a
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/spefile-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/spefile-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/spefile-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/spefile-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/spefile-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/spefile-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/spefile/badges/version.svg)](https://anaconda.org/conda-forge/spefile)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/spefile/badges/downloads.svg)](https://anaconda.org/conda-forge/spefile)
+
 Installing spefile
 ==================
 
@@ -67,18 +79,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/spefile-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/spefile-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/spefile-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/spefile-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/spefile-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/spefile-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/spefile/badges/version.svg)](https://anaconda.org/conda-forge/spefile)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/spefile/badges/downloads.svg)](https://anaconda.org/conda-forge/spefile)
 
 
 Updating spefile-feedstock
