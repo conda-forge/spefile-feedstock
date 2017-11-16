@@ -15,9 +15,7 @@ Summary: Reader for SPE files part of pyspec a set of python routines for data a
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/spefile-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/spefile-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/spefile-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/spefile-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/spefile-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/spefile-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/spefile-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/spefile-feedstock)
 
 Current release info
 ====================
