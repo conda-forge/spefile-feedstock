@@ -172,7 +172,8 @@ class PrincetonSPEFile():
     def _readAtString(self, pos, size):
         if pos is not None:
             self._fid.seek(pos)
-        return self._fid.read(size).rstrip(chr(0))
+        return self._fid.read(size).decode('ascii').rstrip(chr(0))
+
 
     def _readInt(self, pos):
         return self._readAtNumpy(pos, 1, numpy.int16)[0]
