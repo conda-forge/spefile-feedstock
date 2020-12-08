@@ -3,7 +3,7 @@ About spefile
 
 Home: https://pythonhosted.org/pyspec/
 
-Package license: GPL v3.0
+Package license: GPL-3.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/spefile-feedstock/blob/master/LICENSE.txt)
 
