@@ -31,6 +31,7 @@ about:
     # project on github.
     home: https://pythonhosted.org/pyspec/
     license: GPL-3.0-or-later
+    license_file: LICENSE
     summary: >
         Reader for SPE files part of pyspec a set of python routines for data
         analysis of x-ray scattering experiments
