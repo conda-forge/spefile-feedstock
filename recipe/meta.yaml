@@ -29,7 +29,7 @@ about:
     # Long term goal is to have the src/ folder in this recipe as a stand-alone
     # project on github.
     home: https://pythonhosted.org/pyspec/
-    license: GPL v3.0
+    license: GPL-3.0-or-later
     summary: >
         Reader for SPE files part of pyspec a set of python routines for data
         analysis of x-ray scattering experiments
