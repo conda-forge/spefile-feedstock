@@ -6,5 +6,5 @@ setuptools.setup(
     license='GPL v3',
     name='spefile',
     py_modules=['spefile'],
-    version='1.6',
+    version='1.6.1',
 )
